@@ -1,0 +1,15 @@
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\bin\Debug\Primera_Prueba.exe.config
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\bin\Debug\Primera_Prueba.exe
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\bin\Debug\Primera_Prueba.pdb
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.csprojResolveAssemblyReference.cache
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.Form1.resources
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.Properties.Resources.resources
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.csproj.GenerateResource.Cache
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.exe
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.pdb
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.Form2.resources
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.Form3.resources
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Listados de pruebas\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.Form4.resources
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Primera_Prueba\Primera_Prueba\bin\Debug\Primera_Prueba.exe.config
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.exe
+C:\Users\felix\Desktop\Wilkendry  castillo (3)\Programacion I\Proyecto final\Primera_Prueba\Primera_Prueba\obj\Debug\Primera_Prueba.pdb
